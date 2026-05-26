@@ -116,10 +116,7 @@ radius_km = st.slider("📏 Radius (km)", 1, 20, 5)
 radius = radius_km * 1000
 
 # -----------------------------
-# FIND PLACES (FIXED)
-# -----------------------------# -----------------------------
-# FIND PLACES (FINAL FIX)
-# -----------------------------
+# FIND PLACES 
 if st.button("🔍 Find Best Tourist Places"):
 
     # ✅ define inside button
