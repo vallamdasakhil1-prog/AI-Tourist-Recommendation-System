@@ -14,9 +14,8 @@ with open("model/model.pkl", "rb") as f:
     model = pickle.load(f)
 
 # -----------------------------
-# HTML (GPS + MAP ADDED)
+# HTML 
 # -----------------------------
-HTML = """
 <!DOCTYPE html>
 <html>
 <head>
