@@ -1,6 +1,6 @@
 import requests
 
-API_KEY = "5ae2e3f221c38a28845f05b6aca8c165dd138ac840f4548e591d484c"
+API_KEY = "API KEY"
 
 # -----------------------------
 # BAD WORDS (FILTER OUT)
